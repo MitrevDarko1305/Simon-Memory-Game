@@ -27,15 +27,9 @@ The game generates a sequence of colors and sounds, and the player must repeat t
 4. Each level adds a new color to remember.
 5. If you click the wrong button, the game ends.
 
-## 📂 Project Structure
-
-Simon-Memory-Game
-├── index.html
-├── styles.css
-├── game.js
-└── sounds/
-
 ## 📌 Author
 
-Darko Mitrev
-Play the game here: https://simon-sequence.mitrevdarko.dev
+Darko Mitrev,
+
+## ▶️ Play the game here: 
+https://simon-sequence.mitrevdarko.dev
